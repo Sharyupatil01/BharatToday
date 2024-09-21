@@ -1,4 +1,5 @@
-# BharatToday
+# BharatToday:get glued to the news
+
 
 📰Bharat Today 
 The news website that uses the news api key and fetches the data from it 
