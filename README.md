@@ -4,7 +4,7 @@
 📰Bharat Today 
 The news website that uses the news api key and fetches the data from it 
 The technology used are HTML ,CSS JAVASCRIPT
-Done some modification today 
+
 
 
 
